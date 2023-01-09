@@ -1,5 +1,4 @@
 import re
-import pyautogui
 from collections import Counter
 from konlpy.tag import Okt, Komoran #Kkma
 import streamlit as st
@@ -78,7 +77,7 @@ print ('=================== 형태소 추출 ===================================
 
 #키워드 카운트
 ########################################################
-print ('komoran 분석') 
+print ('komoran 분석')
 
 # 불용어 제거
 for i in word_kom_space :
