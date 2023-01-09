@@ -1,5 +1,5 @@
 re
-Counter
-Okt
+collections
+konlpy.tag
 streamlit
 time
