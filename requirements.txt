@@ -1,4 +1,5 @@
-collections
-konlpy.tag
+re
+Counter
+Okt
 streamlit
 time
