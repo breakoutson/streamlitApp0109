@@ -1,4 +1,3 @@
-re
 collections
 konlpy.tag
 streamlit
